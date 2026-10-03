@@ -1,6 +1,6 @@
 # Android VPN Architecture
 
-Production Kotlin implementation strictly matching specifications.
+Lala la la la
 
 ![Android 8.0 - 14](https://img.shields.io/badge/Android-8.0%20--%2014%20(API%2026--34)-black?style=flat-square&logo=android&logoColor=white)
 

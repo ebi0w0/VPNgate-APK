@@ -1,0 +1,7 @@
+{
+  "name": "GateTunnel VPN - Japan & US Fastest VPN",
+  "description": "High-performance minimal Android VPN client with automatic VPN Gate server discovery in Japan and the US, real OpenVPN tunneling, and weekly background updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

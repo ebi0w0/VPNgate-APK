@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GateTunnel</string>
+    <string name="vpn_title">VPN</string>
+    <string name="state_disconnected">Disconnected</string>
+    <string name="state_connecting">Connecting…</string>
+    <string name="state_connected">Connected</string>
+    <string name="state_reconnecting">Reconnecting…</string>
+    <string name="state_failed">Connection failed</string>
+    <string name="btn_connect">CONNECT</string>
+    <string name="btn_disconnect">DISCONNECT</string>
+    <string name="channel_vpn_name">VPN Connection</string>
+    <string name="channel_vpn_desc">Shows ongoing VPN connection status</string>
+</resources>
